@@ -1,5 +1,7 @@
 #View the code part to uderstand better
 
+#Recommanded : **Run this in google console**
+
 #Here is the manual of the game
 
 1.On start you will have to choose between 'ok' & 'cancel'
