@@ -1,3 +1,5 @@
+#View the code part to uderstand better
+
 #Here is the manual of the game
 
 1.On start you will have to choose between 'ok' & 'cancel'
@@ -11,7 +13,7 @@
 |
 |_ Then you have to guess the number in the given chances
 |
-|\_ **End**
+| **End**
 
 -ii.And if you choose 'cancel' ,you have to choose between 3 preset values.
 |
