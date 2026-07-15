@@ -74,7 +74,7 @@ if (userChoice) {
         console.log(`You won`);
         break;
       } else {
-        chance++;
+        chance1++;
         if (chance1 < maxChance1) {
           alert(`Guess Again`);
         }
@@ -154,7 +154,7 @@ if (userChoice) {
       if (Math.abs(comR3 - Guess) <= 20 && Math.abs(comR3 - Guess) > 10) {
         alert(`You are close`);
       }
-      if (Math.abs(comR3 - Guess) <= 60 && Math.abs(comR3 - Guess) > 70) {
+      if (Math.abs(comR3 - Guess) >= 60 && Math.abs(comR3 - Guess) < 70) {
         alert(`Gone to far`);
       }
 
@@ -177,3 +177,4 @@ if (userChoice) {
     console.log(`Invalid option Nmmber`);
   }
 }
+//End//
